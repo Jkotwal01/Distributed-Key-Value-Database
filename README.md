@@ -1,6 +1,6 @@
 # Mini Distributed Key-Value Database
 
-> A FAANG-level distributed systems project built with **C++17 nodes** and a **FastAPI REST gateway**.  
+> A distributed systems project built with **C++17 nodes** and a **FastAPI REST gateway**.  
 > Demonstrates consistent hashing, async replication (RF=3), Bully-algorithm leader election, and fault-tolerant reads.
 
 ---

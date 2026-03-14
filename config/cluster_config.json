@@ -1,0 +1,19 @@
+{
+  "replication_factor": 3,
+  "heartbeat_interval_ms": 2000,
+  "node_timeout_ms": 6000,
+  "election_timeout_ms": 5000,
+  "virtual_nodes_per_physical": 150,
+  "nodes": [
+    { "id": 1, "host": "localhost", "port": 8001 },
+    { "id": 2, "host": "localhost", "port": 8002 },
+    { "id": 3, "host": "localhost", "port": 8003 }
+  ],
+  "coordinator": {
+    "host": "localhost",
+    "port": 8001
+  },
+  "api_gateway": {
+    "port": 9000
+  }
+}

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\distributed_node.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\distributed_node.dir/objects.a @CMakeFiles\distributed_node.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\distributed_node.dir/objects.a -Wl,--no-whole-archive -o bin\distributed_node.exe -Wl,--out-implib,lib\libdistributed_node.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\distributed_node.dir\linkLibs.rsp

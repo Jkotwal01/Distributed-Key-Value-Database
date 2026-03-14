@@ -1,0 +1,10 @@
+D:/My Code/Projects/distributed-db/build/CMakeFiles/distributed_node.dir
+D:/My Code/Projects/distributed-db/build/CMakeFiles/test_storage.dir
+D:/My Code/Projects/distributed-db/build/CMakeFiles/test_hash_ring.dir
+D:/My Code/Projects/distributed-db/build/CMakeFiles/test.dir
+D:/My Code/Projects/distributed-db/build/CMakeFiles/edit_cache.dir
+D:/My Code/Projects/distributed-db/build/CMakeFiles/rebuild_cache.dir
+D:/My Code/Projects/distributed-db/build/CMakeFiles/list_install_components.dir
+D:/My Code/Projects/distributed-db/build/CMakeFiles/install.dir
+D:/My Code/Projects/distributed-db/build/CMakeFiles/install/local.dir
+D:/My Code/Projects/distributed-db/build/CMakeFiles/install/strip.dir
